@@ -110,10 +110,7 @@ The GUI has been created using basic HTML, CSS and JavaScript and we have used F
 The outputs of the working system detecting drowsiness is shown as: <br>
 ![frame_yawn1](https://user-images.githubusercontent.com/35571958/87904322-ab2f1880-ca7b-11ea-97d2-82f9dd0c318a.jpg) ![Screenshot (405)](![frame_yawn3](![frame_yawn6](https://user-images.githubusercontent.com/91620139/221351404-546d5c09-ebf5-49f6-a91d-fae7dd3e14eb.jpg)
 )
-
-Also, in order to keep a proof of the moment when the person was sleeping or yawning, we kept a seperate folder where those frames are stored as: <br>
-![Screenshot (408)](https://user-images.githubusercontent.com/35571958/87904688-7e2f3580-ca7c-11ea-839b-c049bace332f.png)
-
+	
 ## Streaming using Phone Camera 
 We have used and Android App available for free in Play Store, named IP Webcam. It can be downloaded from this <a href = "https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_IN">link</a>. After downloading it, open the app and scroll down to the option <b>Start Server</b>. It will look like: <br>
 <img src = "https://user-images.githubusercontent.com/35571958/88623867-83673280-d0c3-11ea-9efd-63559024c0bd.jpg">
