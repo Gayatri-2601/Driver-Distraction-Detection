@@ -108,8 +108,7 @@ The GUI has been created using basic HTML, CSS and JavaScript and we have used F
 ![df01ae7c-afc9-4676-b95b-b6cec592ddf0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/35571958/87902089-589f2d80-ca76-11ea-9eda-a53a83662721.gif)
 
 The outputs of the working system detecting drowsiness is shown as: <br>
-![Screenshot (405)](![frame_yawn3](![frame_yawn6](![frame_yawn3](https://user-images.githubusercontent.com/91620139/221351595-c054a980-037d-46cf-936f-36a92cb083e6.jpg)
-)
+![![frame_yawn3](https://user-images.githubusercontent.com/91620139/221351641-e4b0ea1f-3944-4ba7-9c7b-223cf2e9f428.jpg) ![Screenshot (405)](![frame_yawn6](https://user-images.githubusercontent.com/91620139/221351656-2f2ce91f-59a2-430d-9bfb-3229260007bb.jpg)
 	
 ## Streaming using Phone Camera 
 We have used and Android App available for free in Play Store, named IP Webcam. It can be downloaded from this <a href = "https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_IN">link</a>. After downloading it, open the app and scroll down to the option <b>Start Server</b>. It will look like: <br>
