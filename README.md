@@ -1,8 +1,8 @@
 # Driver-Distraction-Detection
 
 # Drowsiness Detection System(webapp)
-<!-- <a href = "https://youtu.be/YyIMsBBEukw">Click Here to see the demo</a> <br>
-<img src="https://img.shields.io/github/repo-size/fear-the-lord/Drowsiness-Detection"> <img src="https://img.shields.io/github/license/fear-the-lord/Drowsiness-Detection"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fear-the-lord/Drowsiness-Detection"> <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/fear-the-lord/Drowsiness-Detection"> <img src = "https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/fear-the-lord/Drowsiness-Detection"> <img src = "https://img.shields.io/youtube/views/YyIMsBBEukw?style=social"> -->
+<a href = "https://youtu.be/YyIMsBBEukw">Click Here to see the demo</a> <br>
+<img src="https://img.shields.io/github/repo-size/fear-the-lord/Drowsiness-Detection"> <img src="https://img.shields.io/github/license/fear-the-lord/Drowsiness-Detection"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/fear-the-lord/Drowsiness-Detection"> <img alt="Libraries.io dependency status for GitHub repo" src="https://img.shields.io/librariesio/github/fear-the-lord/Drowsiness-Detection"> <img src = "https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/fear-the-lord/Drowsiness-Detection"> <img src = "https://img.shields.io/youtube/views/YyIMsBBEukw?style=social">
 
 
 ## Motivation: 
@@ -108,7 +108,7 @@ The GUI has been created using basic HTML, CSS and JavaScript and we have used F
 ![df01ae7c-afc9-4676-b95b-b6cec592ddf0 (online-video-cutter com) (1)](https://user-images.githubusercontent.com/35571958/87902089-589f2d80-ca76-11ea-9eda-a53a83662721.gif)
 
 The outputs of the working system detecting drowsiness is shown as: <br>
-![frame_yawn1](https://user-images.githubusercontent.com/35571958/87904322-ab2f1880-ca7b-11ea-97d2-82f9dd0c318a.jpg) ![Screenshot (405)](![frame_yawn3](![frame_yawn6](https://user-images.githubusercontent.com/91620139/221351404-546d5c09-ebf5-49f6-a91d-fae7dd3e14eb.jpg)
+![Screenshot (405)](![frame_yawn3](![frame_yawn6](![frame_yawn3](https://user-images.githubusercontent.com/91620139/221351595-c054a980-037d-46cf-936f-36a92cb083e6.jpg)
 )
 	
 ## Streaming using Phone Camera 
